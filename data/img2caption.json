@@ -1,0 +1,1502 @@
+[
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the key traits of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an epoxy(hydroxy)icosatrienoate that is the conjugate base of 11 hydroxy-(14R,15S)-epoxy-(5Z,8Z,12E)-icosatrienoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3. It is a conjugate base of an 11 hydroxy-(14R,15S)-epoxy-(5Z,8Z,12E)-icosatrienoic acid."
+            }
+        ],
+        "image": [
+            "image/img2caption/1.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What can you tell about this molecular image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is the stable isotope of tellurium with relative atomic mass 124.904425, 71.4 atom percent natural abundance and nuclear spin 1/2."
+            }
+        ],
+        "image": [
+            "image/img2caption/2.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a detailed description of this molecular structure. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a tetracyclic triterpenoid that is 4,4,8-trimethylandrosta-1,14-diene substituted by an oxo group at position 3, an acetoxy group at position 7 and a furan-3-yl group at position 17. Isolated from Azadirachta indica, it exhibits antiplasmodial and antineoplastic activities. It has a role as an antineoplastic agent, an antiplasmodial drug and a plant metabolite. It is an acetate ester, a cyclic terpene ketone, a member of furans, a limonoid and a tetracyclic triterpenoid."
+            }
+        ],
+        "image": [
+            "image/img2caption/3.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "List the notable attributes of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a member of the class of N-nitrosoureas that is urea in which one of the nitrogens is substituted by methyl and nitroso groups. It has a role as a carcinogenic agent, a mutagen, a teratogenic agent and an alkylating agent."
+            }
+        ],
+        "image": [
+            "image/img2caption/4.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a description of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an indole phytoalexin that is indole substituted at position 3 by a 1,3-thiazol-2-yl group. It has a role as a metabolite. It is an indole phytoalexin and a member of 1,3-thiazoles."
+            }
+        ],
+        "image": [
+            "image/img2caption/5.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a description of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is conjugate base of N(1)-(5-phospho-D-ribosyl)glycinamide. It has a role as a human metabolite and a Saccharomyces cerevisiae metabolite. It is a conjugate base of a N(1)-(5-phospho-D-ribosyl)glycinamide."
+            }
+        ],
+        "image": [
+            "image/img2caption/6.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the key traits of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is the pyranose form of D-mannose 6-phosphate. It is a D-mannose 6-phosphate and a D-hexopyranose 6-phosphate. It is a conjugate acid of a D-mannopyranose 6-phosphate(2-)."
+            }
+        ],
+        "image": [
+            "image/img2caption/7.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What can you tell about this molecular image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an organic heterotricyclic compound found in Pterocarpus santalinus. It has a role as a metabolite and a plant metabolite. It is an organic heterotricyclic compound, an aromatic ether, a cyclic ketone, a member of phenols, a tertiary alcohol and a tertiary alpha-hydroxy ketone."
+            }
+        ],
+        "image": [
+            "image/img2caption/8.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Summarize the chemical properties of this compound. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a long-chain primary fatty alcohol that is docosane substituted by a hydroxy group at position 1. It has a role as an antiviral agent. It is a long-chain primary fatty alcohol and a fatty alcohol 22:0. It derives from a hydride of a docosane."
+            }
+        ],
+        "image": [
+            "image/img2caption/9.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze and describe the molecular features shown. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a ketohexose bisphosphate that is D-fructofuranose carrying phosphate groups at positions 2 and 6. It derives from a D-fructofuranose."
+            }
+        ],
+        "image": [
+            "image/img2caption/10.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a description of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an ADP-glycero-D-manno-heptose. It has a role as an Escherichia coli metabolite. It is a conjugate acid of an ADP-D-glycero-D-manno-heptose(2-)."
+            }
+        ],
+        "image": [
+            "image/img2caption/11.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze and describe the molecular features shown. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a member of the class of dibenzofurans that is dibenzo[b,d]furan substituted by a hydroxy group at position 1 and chloro groups at positions 6 and 7. It is a member of dibenzofurans, an organochlorine compound and a member of phenols. It derives from a hydride of a dibenzofuran."
+            }
+        ],
+        "image": [
+            "image/img2caption/12.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the properties of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a nitrile that is acetonitrile where one of the methyl hydrogens is substituted by a 2-methylphenyl group. It derives from an acetonitrile."
+            }
+        ],
+        "image": [
+            "image/img2caption/13.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "List the notable attributes of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a tartrate salt obtained by reaction of rivastigmine with one equivalent of (R,R)-tartaric acid. A reversible cholinesterase inhibitor. It has a role as a cholinergic drug, an EC 3.1.1.8 (cholinesterase) inhibitor and a neuroprotective agent. It contains a rivastigmine(1+)."
+            }
+        ],
+        "image": [
+            "image/img2caption/14.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give an overview of this molecule's properties. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a flavonoid oxoanion obtained by deprotonation of the 5-hydroxy group of 3',4',5,6-tetrahydroxy-3,7-dimethoxyflavone. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is a conjugate base of a 3',4',5,6-tetrahydroxy-3,7-dimethoxyflavone."
+            }
+        ],
+        "image": [
+            "image/img2caption/15.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze and describe the molecular features shown. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a single-stranded DNA oligonucleotide comprised of two deoxyadenosine, one thymidine and three deoxycytidine residues connected by 3'->5' phosphodiester linkages in the sequence TCAACC. It has a role as an antigen."
+            }
+        ],
+        "image": [
+            "image/img2caption/16.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze and describe the molecular features shown. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a carboxylic ester resulting from the formal condensation of phenylacetic acid with (3S)-3,7-dimethyloct-7-en-1-ol. It has a role as a flavouring agent. It is a carboxylic ester and an olefinic compound. It derives from a phenylacetic acid."
+            }
+        ],
+        "image": [
+            "image/img2caption/17.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a detailed description of this molecular structure. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a hydrate of nickel chloride containing nickel (in the +2 oxidation state), chloride and water moeities in the ratio 1:2:6. It has a role as a sensitiser. It contains a nickel dichloride."
+            }
+        ],
+        "image": [
+            "image/img2caption/18.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What can you tell about this molecular image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a fatty alcohol consisting of a hydroxy function at C-1 of an unbranched saturated chain of nine carbon atoms. It has been isolated as a component of volatile oils from plants like Hordeum vulgare. It has a role as a plant metabolite and a volatile oil component. It derives from a hydride of a nonane."
+            }
+        ],
+        "image": [
+            "image/img2caption/19.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Summarize the chemical properties of this compound. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a methanesulfonate ester that is methanesulfonic acid in which the hydrogen of the hydroxy group has been replaced by a 2-ethoxy-3,3-dimethyl-2,3-dihydro-1-benzofuran-5-yl group. It is an ether, a methanesulfonate ester and a member of 1-benzofurans."
+            }
+        ],
+        "image": [
+            "image/img2caption/20.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the chemical and physical aspects of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a member of benzenes, a sulfone and a member of triazoles. It has a role as an antimitotic, a herbicide and an agrochemical."
+            }
+        ],
+        "image": [
+            "image/img2caption/21.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the properties of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a docosanoid that is (4Z,7Z,11E,13Z,16Z,19Z)-docosahexaenoic acid carrying a hydroperoxy substituent at position 10. It is a docosanoid, a hydroperoxy fatty acid and a long-chain fatty acid. It derives from an all-cis-docosa-4,7,10,13,16,19-hexaenoic acid. It is a conjugate acid of a (4Z,7Z,11E,13Z,16Z,19Z)-10-hydroperoxydocosahexaenoate."
+            }
+        ],
+        "image": [
+            "image/img2caption/22.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "List the notable attributes of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is the monocarboxylic acid amide resulting from the formal condensation of the aryl amino group of 1-methyl-N-phenylpiperidin-4-amine with propanoic acid. It is a member of piperidines and a monocarboxylic acid amide."
+            }
+        ],
+        "image": [
+            "image/img2caption/23.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the key traits of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a 2-hydroxydicarboxylic acid that is succinic acid in which one of the hydrogens attached to a carbon is replaced by a hydroxy group. It has a role as a food acidity regulator and a fundamental metabolite. It is a 2-hydroxydicarboxylic acid and a C4-dicarboxylic acid. It derives from a succinic acid. It is a conjugate acid of a malate(2-) and a malate."
+            }
+        ],
+        "image": [
+            "image/img2caption/24.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the characteristics of this chemical compound? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a glucosaminoglycan consisting of L-asparagine having the heptasaccharide alpha-D-Man-(1->3)-[alpha-D-Man-(1->3)-[alpha-D-Man-(1->6)]-alpha-D-Man-(1->6)]-beta-D-Man-(1->4)-beta-D-GlcNAc-(1->4)-beta-D-GlcNAc attached at the N(4)-position It is a N(4)-glycosyl-L-asparagine, a glucosamine oligosaccharide and a glucosaminoglycan. It derives from an alpha-D-Manp-(1->3)-[alpha-D-Manp-(1->3)-[alpha-D-Manp-(1->6)]-alpha-D-Manp-(1->6)]-beta-D-Manp-(1->4)-beta-D-GlcpNAc-(1->4)-beta-D-GlcpNAc."
+            }
+        ],
+        "image": [
+            "image/img2caption/25.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the chemical and physical aspects of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a hydrate that is the trihydrate form of scopolamine hydrobromide. It has a role as a mydriatic agent, a muscarinic antagonist, an anaesthesia adjuvant, an antispasmodic drug and an antiemetic. It contains a scopolamine hydrobromide (anhydrous)."
+            }
+        ],
+        "image": [
+            "image/img2caption/26.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the key traits of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a organophosphonate oxoanion obtained by deprotonation of the carboxy and one of the ohopsphonate OH groups of phosphonoformic acid. It is the major microspecies at pH 7.3 (according to Marvin v 6.2.0.). It is an organophosphonate oxoanion and a monocarboxylic acid anion. It is a conjugate base of a phosphonoformic acid. It is a conjugate acid of a phosphonatoformate."
+            }
+        ],
+        "image": [
+            "image/img2caption/27.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Summarize the chemical properties of this compound. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an aromatic amine containing two phenyl substituents. It has been used as a fungicide for the treatment of superficial scald in apples and pears, but is no longer approved for this purpose within the European Union. It has a role as a carotogenesis inhibitor, an antioxidant, an EC 1.3.99.29 [phytoene desaturase (zeta-carotene-forming)] inhibitor and an antifungal agrochemical. It is an aromatic amine, a secondary amino compound and a bridged diphenyl fungicide."
+            }
+        ],
+        "image": [
+            "image/img2caption/28.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the characteristics of this chemical compound? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an organic sodium salt having 3-[(ethyl{4-[(4-{ethyl[(3-sulfonatophenyl)methyl]amino}phenyl)(phenyl)methylidene]cyclohexa-2,5-dien-1-ylidene}azaniumyl)methyl]benzene-1-sulfonate. Used as a substitute for Light green SF yellowish in Masson's trichrome, although it is prone to fade. Previously used as a food dye but is now no longer approved. It has a role as a fluorochrome, a food colouring and a histological dye. It contains a Guinee green B(1-)."
+            }
+        ],
+        "image": [
+            "image/img2caption/29.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What can you tell about this molecular image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a tetracyclic triterpenoid that is 4,9-cyclo-9,10-secocholesta-5,24-diene substituted by methyl groups at positions 9beta, 10, and 14, and by hydroxy groups at positions 1 and 11alpha. It has a role as a plant metabolite. It is a tetracyclic triterpenoid, a secondary alcohol and a diol. It derives from a cucurbitadienol. It derives from a hydride of a cucurbitane."
+            }
+        ],
+        "image": [
+            "image/img2caption/30.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the key traits of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a 2',3'-cyclic purine nucleotide that is GMP in which the hydroxy groups at the 2' and 3' positions have been converted into the corresponding cyclic phosphate. It is a 2',3'-cyclic purine nucleotide, a guanyl ribonucleotide and a guanosine bisphosphate. It derives from a 2',3'-cyclic GMP."
+            }
+        ],
+        "image": [
+            "image/img2caption/31.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze and describe the molecular features shown. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a branched amino tetrasaccharide consisting of N-acetyl-glucosamine at the reducing end with an alpha-fucosyl-(1->2)-alpha-fucosyl group attached at the 3-position and an N-acetyl-beta-glucosaminyl residue attached at the 4-position. It has a role as an epitope. It is an amino tetrasaccharide and a glucosamine oligosaccharide."
+            }
+        ],
+        "image": [
+            "image/img2caption/32.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a description of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a p-menthane monoterpenoid that consists of cyclohex-2-enone having methyl and isopropenyl substituents at positions 2 and 5, respectively. It has a role as an allergen. It is a member of carvones and a botanical anti-fungal agent."
+            }
+        ],
+        "image": [
+            "image/img2caption/33.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a description of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a member of the class of tetracenes that is tetracenomycin C in which the methoxy group at position 3 is replaced by a phenolic OH. It has a role as a bacterial metabolite. It is an enol ether, an enone, a triol, a polyphenol, a methyl ester, a tetracenomycin and a tertiary alpha-hydroxy ketone."
+            }
+        ],
+        "image": [
+            "image/img2caption/34.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give an overview of this molecule's properties. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a 1-alkylglycero-3-phosphocholine in which the alkyl group is specified as octadecyl. It has a role as a human metabolite."
+            }
+        ],
+        "image": [
+            "image/img2caption/35.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Summarize the chemical properties of this compound. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a monomethoxyflavone that is myricetin in which the hydroxy group at position 7 is substituted by a methoxy group. It has a role as a plant metabolite. It is a pentahydroxyflavone and a monomethoxyflavone. It derives from a myricetin."
+            }
+        ],
+        "image": [
+            "image/img2caption/36.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What can you tell about this molecular image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a ribulose 5-phosphate. It has a role as an Escherichia coli metabolite. It derives from a L-ribulose. It is a conjugate acid of a L-ribulose 5-phosphate(2-)."
+            }
+        ],
+        "image": [
+            "image/img2caption/37.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a detailed description of this molecular structure. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a glycosylgalactose consisting of beta-D-galactose substituted on O-6 with a beta-D-glucopyranuronosyl (beta-D-glucopyranosyluronic acid) group. It has a role as an epitope."
+            }
+        ],
+        "image": [
+            "image/img2caption/38.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What can you tell about this molecular image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an acyl-CoA(4-) obtained by deprotonation of the phosphate and diphosphate groups of oscr#9-CoA; major species at pH 7.3. It is a conjugate base of an oscr#9-CoA."
+            }
+        ],
+        "image": [
+            "image/img2caption/39.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the characteristics of this chemical compound? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a meroterpenoid found in Penicillium rubrum and has been shown to exhibit inhibitory activity against caspase-1. It has a role as a cysteine protease inhibitor and a Penicillium metabolite. It is a cyclic terpene ketone, a meroterpenoid, a tertiary alcohol, a carbopolycyclic compound, a beta-diketone, a methyl ester and a tertiary alpha-hydroxy ketone."
+            }
+        ],
+        "image": [
+            "image/img2caption/40.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the characteristics of this chemical compound? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a beta-D-glucoside resulting from the formal condensation of the carboxy group of ferulic acid with the anomeric hydroxy group of beta-D-glucose. It has a role as an antioxidant and a plant metabolite. It is a beta-D-glucoside, a cinnamate ester, a member of phenols and an aromatic ether. It derives from a ferulic acid."
+            }
+        ],
+        "image": [
+            "image/img2caption/41.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze and describe the molecular features shown. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a C20-gibberellin. It has a role as a plant metabolite. It is a dicarboxylic acid and a C20-gibberellin. It is a conjugate acid of a gibberellin A19(2-)."
+            }
+        ],
+        "image": [
+            "image/img2caption/42.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze and describe the molecular features shown. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a ceramide obtained by formal condensation of the carboxy group of icosanoic acid with the amino group of (4E,14Z)-sphinga-4,14-dienine. It has a role as a Papio hamadryas metabolite. It derives from an icosanoic acid."
+            }
+        ],
+        "image": [
+            "image/img2caption/43.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give an overview of this molecule's properties. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a polyunsaturated fatty acid anion that is the conjugate base of juvenile hormone I carboxylic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3. It is a polyunsaturated fatty acid anion and a branched-chain fatty acid anion. It is a conjugate base of a juvenile hormone I acid."
+            }
+        ],
+        "image": [
+            "image/img2caption/44.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the characteristics of this chemical compound? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a member of the class of hopanoids that is bacteriohopane-31,32,33,34-tetrol carrying additional methyl and amino substituents at positions 3 and 35 respectively. Isolated from Methylococcus capsulatus. It has a role as a bacterial metabolite. It is a hopanoid, a tetrol and a primary amino compound."
+            }
+        ],
+        "image": [
+            "image/img2caption/45.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a description of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a pyrimidine nucleotide-sugar having thymine as the nucleobase and 4-amino-2,3,4,6-tetradeoxy-alpha-D-glucose as the sugar component. It has a role as a bacterial metabolite. It is a conjugate acid of a dTDP-4-ammonio-2,3,4,6-tetradeoxy-alpha-D-glucose(1-)."
+            }
+        ],
+        "image": [
+            "image/img2caption/46.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the chemical and physical aspects of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a member of the class of phenoxazines that is 1,9-dimethyl-3H-phenoxazin-3-one carrying an additional hydroxy substituent at position 7 as well as two 2,4-dihydroxy-6-methylphenyl substituents at positions 2 and 8. The isomer in which the hydroxy groups at positions 2' and 2'' on the phenyl rings are both on the same side of the plane of the phenoxazine ring system. A component of orcein, a mixture of dyes isolated from lichens. It has a role as a food colouring, a histological dye and a plant metabolite. It is a cyclic ketone, a phenoxazine, a polyphenol and a member of resorcinols."
+            }
+        ],
+        "image": [
+            "image/img2caption/47.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What can you tell about this molecular image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an organosulfur heterocyclic compound that is 1,2,3-trithiane in which one of the hydrogens at position 5 has been replaced by a dimethylamino group. A nicotinic acetylcholine receptor agonist, it was used (particularly as its hydrogen oxalate salt, known as thyocyclam oxalate) as a broad-spectrum insecticide, but it is also toxic to bees, fish and other aquatic organisms. It is not approved for use within the European Union. It has a role as an agrochemical and a nicotinic acetylcholine receptor agonist. It is a nereistoxin analogue insecticide and an organosulfur heterocyclic compound. It is a conjugate base of a thiocyclam(1+). It derives from a hydride of a 1,2,3-trithiane."
+            }
+        ],
+        "image": [
+            "image/img2caption/48.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a detailed description of this molecular structure. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an oligosaccharide sulfate consisting of 2-O-sulfo-beta-D-glucopyranuronic acid and 2-deoxy-6-O-sulfo-2-(sulfoamino)-alpha-D-glucopyranose residues joined in sequence by a (1->4) glycosidic bond. It is a disaccharide derivative, an oligosaccharide sulfate and a member of sulfamic acids."
+            }
+        ],
+        "image": [
+            "image/img2caption/49.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give an overview of this molecule's properties. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is the acetate ester of 3-phenylpropan-1-ol. It has a role as a metabolite and a fragrance. It is a member of benzenes and an acetate ester."
+            }
+        ],
+        "image": [
+            "image/img2caption/50.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What can you tell about this molecular image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a hydroxy monocarboxylic acid anion obtained by deprotonation of the carboxy and phosphate OH groups of (R)-2-hydroxy-3-oxo-4-(phosphonooxy)butanoic acid; major species at pH 7.3. It is a hydroxy monocarboxylic acid anion, an organophosphate oxoanion and a 3-oxo monocarboxylic acid anion. It is a conjugate base of a (R)-2-hydroxy-3-oxo-4-(phosphonooxy)butanoic acid. It is an enantiomer of a (S)-2-hydroxy-3-oxo-4-(phosphonatooxy)butanoate(3-)."
+            }
+        ],
+        "image": [
+            "image/img2caption/51.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the key traits of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an oxylipin that is the 15-hydoxy derivative of (6Z,9Z,12Z,16E,18Z)-tetracosa-6,9,12,16,18-pentaenoic acid. Isolated from soft cora Sinularia numerosa, it exhibits anti-angiogenic activity. It has a role as a metabolite and an angiogenesis modulating agent. It is an oxylipin, a secondary alcohol, a long-chain fatty acid and a polyunsaturated fatty acid."
+            }
+        ],
+        "image": [
+            "image/img2caption/52.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a detailed description of this molecular structure. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a 1-acyl-sn-glycerol 3-phosphate having linoleyl (9Z,12Z-octadecadienoyl) as the 1-O-acyl group. It is a conjugate acid of a 1-linoleoyl-sn-glycero-3-phosphate(2-)."
+            }
+        ],
+        "image": [
+            "image/img2caption/53.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the chemical and physical aspects of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a ketone that is decane in which the methylene hydrogens at position 3 are replaced by an oxo group. It has a role as a food additive and a metabolite. It derives from a hydride of a decane."
+            }
+        ],
+        "image": [
+            "image/img2caption/54.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "List the notable attributes of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a chlorobenzoic acid that is benzoic acid in which the hydrogens at positions 2, 3, and 6 have been replaced by chlorines. A synthetic auxin, it is used as a post-emergence herbicide to control weeds in various cereal crops. Not approved for use within the European Union. It has a role as a synthetic auxin, a herbicide and an agrochemical. It is a trichlorobenzene and a chlorobenzoic acid."
+            }
+        ],
+        "image": [
+            "image/img2caption/55.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the chemical and physical aspects of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a tetrapeptide composed of L-alanine, L-leucine, L-threonine, and L-proline units joined in sequence. It has a role as a metabolite. It derives from a L-alanine, a L-leucine, a L-threonine and a L-proline."
+            }
+        ],
+        "image": [
+            "image/img2caption/56.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze and describe the molecular features shown. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a pentacyclic triterpenoid that is urs-12-ene carrying a carboxy substituent at position 28 as well as five hydroxy substituents at positions 2, 3, 19, 23 and 24 (the 2alpha,3beta stereoisomer). It has a role as a plant metabolite. It is a pentacyclic triterpenoid, a hydroxy monocarboxylic acid and a pentol. It derives from a hydride of an ursane."
+            }
+        ],
+        "image": [
+            "image/img2caption/57.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What can you tell about this molecular image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a carbohydrate sulfonate that is 3-deoxy-D-erythro-hex-2-ulosonic acid in which the hydroxy group at position 6 is replaced by a sulfo group. It has a role as a bacterial xenobiotic metabolite. It is a carbohydrate acid derivative and a carbohydrate sulfonate. It is a conjugate acid of a 2-dehydro-3,6-dideoxy-6-sulfo-D-gluconate(2-)."
+            }
+        ],
+        "image": [
+            "image/img2caption/58.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the chemical and physical aspects of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is the 5-phospho derivative of D-arabinose. It is an intermediate in the synthesis of lipopolysaccharides. It is a conjugate acid of an aldehydo-D-arabinose 5-phosphate(2-)."
+            }
+        ],
+        "image": [
+            "image/img2caption/59.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the properties of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a carbonate ester resulting from the formal condensation of the hydroxy group of 5-(undeca-3,5,7-trien-1-yl)furan-2-ol with one of the hydroxy groups of carbonic acid. A metabolite of the endophytic fungus Emericellasp. XL029. The configuration of the double bonds of the undecatrienyl group is not stated. It has a role as an antifungal agent and a fungal metabolite. It derives from a 5-(undeca-3,5,7-trien-1-yl)furan-2-ol."
+            }
+        ],
+        "image": [
+            "image/img2caption/60.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the chemical and physical aspects of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an amino disaccharide comprised of 2-acetamido-beta-D-glucopyranose linked (1->4) to beta-D-mannopyranose. It is an amino disaccharide, a member of acetamides and a glucosamine oligosaccharide."
+            }
+        ],
+        "image": [
+            "image/img2caption/61.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Summarize the chemical properties of this compound. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a natural product found in Leucosceptrum canum. It has a role as a metabolite, an angiogenesis inhibitor and an EC 3.4.21.26 (prolyl oligopeptidase) inhibitor. It is a sesterterpenoid, an organic heterotricyclic compound, a terpene ketone, a terpene lactone, a butenolide, a tertiary alcohol and a tertiary alpha-hydroxy ketone."
+            }
+        ],
+        "image": [
+            "image/img2caption/62.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Summarize the chemical properties of this compound. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is the S-enantiomer of 2-hydroxypalmitate. It is a conjugate base of a (S)-2-hydroxyhexadecanoic acid. It is an enantiomer of a (R)-2-hydroxyhexadecanoate."
+            }
+        ],
+        "image": [
+            "image/img2caption/63.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the key traits of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an octadecenoyl-CoA that results from the formal condensation of the thiol group of coenzyme A with the carboxy group of trans-9-octadecenoic acid. It is a conjugate acid of a trans-9-octadecenoyl-CoA(4-)."
+            }
+        ],
+        "image": [
+            "image/img2caption/64.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a description of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a second-generation cephamycin antibiotic having [(1-methyl-1H-tetrazol-5-yl)sulfanyl]methyl and 2-{[(2S)-2-amino-2-carboxyethyl]sulfanyl}acetamido side-groups located respectively at positions 3 and 7beta of the cephem nucleus. A broad-spectrum bactericide, it is especially effective against Gram-negative and anaerobic bacteria. It is a cephamycin and a member of tetrazoles."
+            }
+        ],
+        "image": [
+            "image/img2caption/65.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the properties of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an apo carotenoid triterpenoid that is 4,4'-diapolycopene in which two of the terminal methyl groups have been oxidised to carboxy groups. It has a role as a bacterial metabolite. It is an apo carotenoid triterpenoid, an alpha,omega-dicarboxylic acid and an olefinic compound. It is a conjugate acid of a 4,4'-diapolycopenedioate. It derives from a hydride of a 4,4'-diapolycopene."
+            }
+        ],
+        "image": [
+            "image/img2caption/66.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give an overview of this molecule's properties. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is the hemiethanolate hemihydrate of doxycycline hydrochloride. A semi-synthetic tetracycline antibiotic, it is used to inhibit bacterial protein synthesis and treat non-gonococcal urethritis and cervicitis, exacerbations of bronchitis in patients with chronic obstructive pulmonary disease (COPD), and adult periodontitis. It has a role as an antibacterial drug. It contains a doxycycline HCl and an ethanol."
+            }
+        ],
+        "image": [
+            "image/img2caption/67.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the properties of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a trihydroxyflavone that is flavone with hydroxy groups at positions 5, 7 and 4' and methoxy groups at positions 3' and 6. Isolated from Salvia tomentosa and Artemisia asiatica, it exhibits anti-allergic, anti-inflammatory and apoptosis inducing activties. It has a role as a metabolite, an anti-inflammatory agent, an apoptosis inducer, an anti-allergic agent and an antineoplastic agent. It is a trihydroxyflavone and a dimethoxyflavone."
+            }
+        ],
+        "image": [
+            "image/img2caption/68.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a detailed description of this molecular structure. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a prostaglandins G. It has a role as a mouse metabolite and a human metabolite. It is a conjugate acid of a prostaglandin G2(1-)."
+            }
+        ],
+        "image": [
+            "image/img2caption/69.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a description of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a phorbol ester that is phorbol in which the hydroxy groups at the cyclopropane ring juction (position 13) and the adjacent carbon (position 12) have been converted into the corresponding acetate and myristate esters. It has a role as a protein kinase C agonist and an antineoplastic agent. It is an acetate ester, a tetradecanoate ester, a diester, a tertiary alpha-hydroxy ketone and a phorbol ester."
+            }
+        ],
+        "image": [
+            "image/img2caption/70.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Summarize the chemical properties of this compound. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a steroid acid anion that is the conjugate base of (25S)-cholestenoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3. It is a conjugate base of a (25S)-cholestenoic acid."
+            }
+        ],
+        "image": [
+            "image/img2caption/71.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the properties of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a penicillin in which the substituent at position 6 of the penam ring is a 2-phenoxypropanamido group. It is a penicillin and a penicillin allergen. It is a conjugate acid of a phenethicillin(1-)."
+            }
+        ],
+        "image": [
+            "image/img2caption/72.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the chemical and physical aspects of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a L-arginine derivative with a N(omega)-methyl substituent. It is a member of guanidines, a non-proteinogenic L-alpha-amino acid and a L-arginine derivative. It is a conjugate acid of a N(omega)-methyl-L-argininate. It is a tautomer of a N(omega)-methyl-L-arginine zwitterion."
+            }
+        ],
+        "image": [
+            "image/img2caption/73.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a description of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a carbamate ester that is the methyl ester of [2-({[1-(4-chlorophenyl)-1H-pyrazol-3-yl]oxy}methyl)phenyl]methoxycarbamic acid. A fungicide used to control major plant pathogens including Septoria tritici, Puccinia spp. and Pyrenophora teres. It has a role as a mitochondrial cytochrome-bc1 complex inhibitor, a xenobiotic, an environmental contaminant and an antifungal agrochemical. It is a member of pyrazoles, a carbamate ester, an aromatic ether, a member of monochlorobenzenes, a methoxycarbanilate strobilurin antifungal agent and a carbanilate fungicide."
+            }
+        ],
+        "image": [
+            "image/img2caption/74.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "List the notable attributes of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is the steroid sulfate of taurolithocholic acid. It has a role as a human metabolite. It derives from a taurolithocholic acid. It is a conjugate acid of a taurolithocholic acid sulfate(2-)."
+            }
+        ],
+        "image": [
+            "image/img2caption/75.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give an overview of this molecule's properties. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an organic sodium salt which is the monosodium salt of callysponginol sulfonic acid A. It is isolated from the marine sponge Callyspongia truncata as a membrane type 1 matrix metalloproteinase (MT1-MMP) inhibitor. It has a role as a metabolite and a matrix metalloproteinase inhibitor. It contains a callysponginol sulfate A(1-)."
+            }
+        ],
+        "image": [
+            "image/img2caption/76.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze and describe the molecular features shown. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an enone that is (4E,6E,8E,10E,12E)-8-methyl-13-phenyltrideca-4,6,8,10,12-pentaene in which the two methylene hydrogens at position 3 have been replaced by an oxo group. Originally isolated from Aspergillus niger. It has a role as an Aspergillus metabolite, a lipoxygenase inhibitor and a platelet aggregation inhibitor."
+            }
+        ],
+        "image": [
+            "image/img2caption/77.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the properties of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a monounsaturated fatty acid anion that is the conjugate base of 12,13-DiHOME, obtained by deprotonation of the carboxy group; major species at pH 7.3. It is a long-chain fatty acid anion and a hydroxy monounsaturated fatty acid anion. It is a conjugate base of a 12,13-DiHOME."
+            }
+        ],
+        "image": [
+            "image/img2caption/78.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a detailed description of this molecular structure. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a 1-O-acyl-sn-glycero-3-phosphocholine in which the acyl group is specified as icosanoyl. It is a 1-O-acyl-sn-glycero-3-phosphocholine and a lysophosphatidylcholine 20:0. It derives from an icosanoic acid."
+            }
+        ],
+        "image": [
+            "image/img2caption/79.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "List the notable attributes of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a long-chain unsaturated fatty acid anion that is the conjugate base of (13Z,16Z)-docosadienoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3. It is a polyunsaturated fatty acid anion, a long-chain fatty acid anion and a docosadienoate. It is a conjugate base of a (13Z,16Z)-docosadienoic acid."
+            }
+        ],
+        "image": [
+            "image/img2caption/80.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "List the notable attributes of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an organoammonium salt resulting from the mixing of equimolar amounts of nitric acid and ethylamine. First prepared in 1914, it was one of the first ionic liquids found that had a melting point below room temperature (m.p. 12\u2103). It has a role as a protic solvent. It is an organoammonium salt and an ionic liquid. It contains an ethylaminium and a nitrate."
+            }
+        ],
+        "image": [
+            "image/img2caption/81.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What can you tell about this molecular image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an N-acyl-L-amino acid that is the N-indole-3-acetyl derivative of L-alanine. It is an indoleacetic acid amide conjugate and a N-acyl-L-alanine."
+            }
+        ],
+        "image": [
+            "image/img2caption/82.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the characteristics of this chemical compound? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an unsaturated fatty acyl-CoA that results from the formal condensation of the thiol group of coenzyme A with the carboxy group of trans-oct-2-enoic acid. It has a role as a human metabolite, an Escherichia coli metabolite and a mouse metabolite. It is a medium-chain fatty acyl-CoA, a trans-2-enoyl-CoA and a monounsaturated fatty acyl-CoA. It derives from a coenzyme A. It is a conjugate acid of a trans-oct-2-enoyl-CoA(4-)."
+            }
+        ],
+        "image": [
+            "image/img2caption/83.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a detailed description of this molecular structure. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an N-acyl-15-methylhexadecasphing-4-enine in which the acyl group has 18 carbons and 0 double bonds. It derives from a 15-methylhexadecasphing-4-enine."
+            }
+        ],
+        "image": [
+            "image/img2caption/84.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "List the notable attributes of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an organic sodium salt that is 2,7-dibromo-4-hydroxymercurifluorescein in which the carboxy group and the phenolic hydroxy group have been deprotonated and the resulting charge is neutralised by two sodium ions. It has a role as an antiseptic drug, a fluorochrome and a histological dye. It contains a 2,7-dibromo-4-hydroxymercurifluorescein(2-)."
+            }
+        ],
+        "image": [
+            "image/img2caption/85.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Summarize the chemical properties of this compound. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a long-chain fatty acid that is a C20, polyunsaturated fatty acid having four (Z)-double bonds at positions 5, 8, 11 and 14. It has a role as a human metabolite, an EC 3.1.1.1 (carboxylesterase) inhibitor, a Daphnia galeata metabolite and a mouse metabolite. It is an icosa-5,8,11,14-tetraenoic acid, an omega-6 fatty acid and a long-chain fatty acid. It is a conjugate acid of an arachidonate. It derives from a hydride of a (5Z,8Z,11Z,14Z)-icosa-5,8,11,14-tetraene."
+            }
+        ],
+        "image": [
+            "image/img2caption/86.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a description of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a pentacyclic triterpenoid that is olean-18-ene substituted at position 3 by an oxo group and position 28 by a carboxy group. It has a role as a metabolite, an anti-HSV-1 agent and an anti-HIV agent. It derives from a hydride of an oleanane."
+            }
+        ],
+        "image": [
+            "image/img2caption/87.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the chemical and physical aspects of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a homoflavonoid glycoside that is ophioglonol attached to beta-D-glucopyranosyl residues at positions 7 and 4' respectively via glycosidic linkages. It has been isolated from the whole plants of Ophioglossum pedunculosum. It has a role as a metabolite and a plant metabolite. It is a beta-D-glucoside, a homoflavonoid glycoside and a hydroxy homoflavonoid. It derives from an ophioglonol."
+            }
+        ],
+        "image": [
+            "image/img2caption/88.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the chemical and physical aspects of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a 2-acyl-sn-glycero-3-phosphocholine in which the acyl group is specified as (15S)-hydroxy-(5Z,8Z,11Z,13E)-icosatetraenoyl. It has a role as a human xenobiotic metabolite and a mouse metabolite."
+            }
+        ],
+        "image": [
+            "image/img2caption/89.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Explain the key traits of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an N-acyl-D-glucosamine phosphate in which the N-acyl group is specified as glycoloyl and the phosphate group is located at position 6. An intermediate in the N-glycolylneuraminic acid (Neu5Gc) degradation pathway"
+            }
+        ],
+        "image": [
+            "image/img2caption/90.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the properties of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an O-acylcarnitine having (7Z,10Z,13Z,16Z)-docosatetraenoyl as the acyl substituent. It has a role as a metabolite. It derives from a carnitine."
+            }
+        ],
+        "image": [
+            "image/img2caption/91.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Analyze and describe the molecular features shown. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a cyclic dicarboxylic anhydride that is phthalic anhydride chlorinated at the 4-, 5-, 6- and 7-positions. It has a role as a cross-linking reagent and an allergen. It is a cyclic dicarboxylic anhydride and a tetrachlorobenzene. It derives from a phthalic anhydride."
+            }
+        ],
+        "image": [
+            "image/img2caption/92.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "List the notable attributes of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an organophosphate oxoanion that is the conjugate base of N(2),N(2),N(7)-trimethylguanosine 5'-phosphate. It is a conjugate base of a N(2),N(2),N(7)-trimethylguanosine 5'-phosphate."
+            }
+        ],
+        "image": [
+            "image/img2caption/93.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Summarize the chemical properties of this compound. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a guanidinium salt obtained by combining propamidine with two molar equivalents of isethionic acid. Used for the treatment of minor eye or eyelid infections, such as conjunctivitis and blepharitis. It has a role as an antimicrobial agent and an antiseptic drug. It is a guanidinium salt and an organosulfonate salt. It contains a propamidine(2+)."
+            }
+        ],
+        "image": [
+            "image/img2caption/94.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the chemical and physical aspects of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an azaheterocycle sulfate salt that is the sulfate salt of the HIV-1 reverse transcriptase inhibitor abacavir. It derives from an abacavir."
+            }
+        ],
+        "image": [
+            "image/img2caption/95.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the chemical and physical aspects of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a phosphatidylcholine 40:1 in which the acyl groups specified at positions 1 and 2 are eicosanoyl and (11Z)-eicosenoyl respectively. It derives from an icosanoic acid and an (11Z)-icos-11-enoic acid."
+            }
+        ],
+        "image": [
+            "image/img2caption/96.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Describe the properties of this molecule. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is an acetate ester obtained by the formal condensation of acetic acid with propanol. It has a role as a fragrance and a plant metabolite. It derives from a propan-1-ol."
+            }
+        ],
+        "image": [
+            "image/img2caption/97.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Provide a detailed description of this molecular structure. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a 2-hydroxy fatty acid anion that is the conjugate base of 2-hydroxy-3-methylpentanoic acid, obtained by deprotonation of the carboxy group; major species at pH 7.3. It is a branched-chain fatty acid anion, a 2-hydroxy fatty acid anion and a short-chain fatty acid. It is a conjugate base of a 2-hydroxy-3-methylpentanoic acid."
+            }
+        ],
+        "image": [
+            "image/img2caption/98.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give an overview of this molecule's properties. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a 1-acetyl-4-(4-{[2-(2,4-dichlorophenyl)-2-(1H-imidazol-1-ylmethyl)-1,3-dioxolan-4-yl]methoxy}phenyl)piperazine in which the dioxolane ring has R configuration at positions 2 and 4. It is an enantiomer of a (2S,4S)-1-acetyl-4-(4-{[2-(2,4-dichlorophenyl)-2-(1H-imidazol-1-ylmethyl)-1,3-dioxolan-4-yl]methoxy}phenyl)piperazine."
+            }
+        ],
+        "image": [
+            "image/img2caption/99.png"
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Give an overview of this molecule's properties. <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The molecule is a sialotriaosylceramide that is ganglioside GM2 (18:0) in which the carboxy function of the sialic acid residue has been converted into a carboxamide. It is a sialotriaosylceramide and a dicarboxylic acid diamide. It derives from a ganglioside GM2 (18:0)."
+            }
+        ],
+        "image": [
+            "image/img2caption/100.png"
+        ]
+    }
+]

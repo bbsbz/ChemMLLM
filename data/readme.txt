@@ -1,0 +1,1 @@
+Due to the large size of the complete dataset, this folder contains 100-sample subsets from 5 different task datasets for input/output reference. The full datasets are available at: https://anonymous.4open.science/r/ChemMLLM-0D98/

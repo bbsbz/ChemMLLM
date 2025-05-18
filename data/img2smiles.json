@@ -1,0 +1,1602 @@
+[
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC1=CC(=C(C=C1)C)C(=O)CC2(C3=C(C=CC(=C3)Cl)NC2=O)O."
+            }
+        ],
+        "image": [
+            "image/img2smiles/1.png"
+        ],
+        "SMILES": "CC1=CC(=C(C=C1)C)C(=O)CC2(C3=C(C=CC(=C3)Cl)NC2=O)O"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1=CC=C2C(=C1)N=C(S2)SCC3=CC=C(C=C3)C(=O)N/N=C/C4=C(C=C(C=C4)Cl)Cl."
+            }
+        ],
+        "image": [
+            "image/img2smiles/2.png"
+        ],
+        "SMILES": "C1=CC=C2C(=C1)N=C(S2)SCC3=CC=C(C=C3)C(=O)N/N=C/C4=C(C=C(C=C4)Cl)Cl"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCC1=C[N+](=C(C=C1)C)CC2=CC(=O)N3C=CSC3=N2."
+            }
+        ],
+        "image": [
+            "image/img2smiles/3.png"
+        ],
+        "SMILES": "CCC1=C[N+](=C(C=C1)C)CC2=CC(=O)N3C=CSC3=N2"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC[C@H](C(=O)NC1=CC=C(C=C1)C(=O)OCC)SC2=NN=C(S2)C."
+            }
+        ],
+        "image": [
+            "image/img2smiles/4.png"
+        ],
+        "SMILES": "CC[C@H](C(=O)NC1=CC=C(C=C1)C(=O)OCC)SC2=NN=C(S2)C"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCCCCOC1=CC=C(C=C1)C2C(=C(C3=CC=C(C=C3)OCCC)O)C(=O)C(=O)N2C4=NC5=C(S4)C=C(C=C5)OC."
+            }
+        ],
+        "image": [
+            "image/img2smiles/5.png"
+        ],
+        "SMILES": "CCCCCOC1=CC=C(C=C1)C2C(=C(C3=CC=C(C=C3)OCCC)O)C(=O)C(=O)N2C4=NC5=C(S4)C=C(C=C5)OC"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCC1=CC=C(C=C1)CN(C2CCS(=O)(=O)C2)C(=O)C3=CC(=CC=C3)OC."
+            }
+        ],
+        "image": [
+            "image/img2smiles/6.png"
+        ],
+        "SMILES": "CCC1=CC=C(C=C1)CN(C2CCS(=O)(=O)C2)C(=O)C3=CC(=CC=C3)OC"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC1=CC(=CC(=C1C[C@@H](C(=O)N2CC3=CC=CC=C3C[C@H]2C(=O)NCCC4=C(N=C(C(=O)N4)CCNC(=O)[C@@H]5CC6=CC=CC=C6CN5C(=O)[C@H](CC7=C(C=C(C=C7C)O)C)N)C)N)C)O."
+            }
+        ],
+        "image": [
+            "image/img2smiles/7.png"
+        ],
+        "SMILES": "CC1=CC(=CC(=C1C[C@@H](C(=O)N2CC3=CC=CC=C3C[C@H]2C(=O)NCCC4=C(N=C(C(=O)N4)CCNC(=O)[C@@H]5CC6=CC=CC=C6CN5C(=O)[C@H](CC7=C(C=C(C=C7C)O)C)N)C)N)C)O"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CN(C)S(=O)(=O)C1=CC=C(C=C1)NC(=O)CN(C)CC2=C(C(=CC=C2)Cl)Cl."
+            }
+        ],
+        "image": [
+            "image/img2smiles/8.png"
+        ],
+        "SMILES": "CN(C)S(=O)(=O)C1=CC=C(C=C1)NC(=O)CN(C)CC2=C(C(=CC=C2)Cl)Cl"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CN(C)S(=O)(=O)C1=CC(=C(C=C1)Cl)NC(=O)CNC2=CC=CC=C2NCCC3=CC=CC=C3."
+            }
+        ],
+        "image": [
+            "image/img2smiles/9.png"
+        ],
+        "SMILES": "CN(C)S(=O)(=O)C1=CC(=C(C=C1)Cl)NC(=O)CNC2=CC=CC=C2NCCC3=CC=CC=C3"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCOC(=O)C1=NN2C(=NN=C2C3=C1C4CCC3CC4)C5=CC=CC=C5."
+            }
+        ],
+        "image": [
+            "image/img2smiles/10.png"
+        ],
+        "SMILES": "CCOC(=O)C1=NN2C(=NN=C2C3=C1C4CCC3CC4)C5=CC=CC=C5"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1CC(=NNC(=O)CNC2=CC=C(C=C2)F)C3=CC=CC=C31."
+            }
+        ],
+        "image": [
+            "image/img2smiles/11.png"
+        ],
+        "SMILES": "C1CC(=NNC(=O)CNC2=CC=C(C=C2)F)C3=CC=CC=C31"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is N.[Mn].[Ga]."
+            }
+        ],
+        "image": [
+            "image/img2smiles/12.png"
+        ],
+        "SMILES": "N.[Mn].[Ga]"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC1=CC=C(C=C1)[C@H](CN2CCOCC2)NC(=S)NC3=CC(=C(C=C3)F)Cl."
+            }
+        ],
+        "image": [
+            "image/img2smiles/13.png"
+        ],
+        "SMILES": "CC1=CC=C(C=C1)[C@H](CN2CCOCC2)NC(=S)NC3=CC(=C(C=C3)F)Cl"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCC1=CC=C(C=C1)NC(=O)[C@@H](CC(C)C)NC(=O)[C@@H]2CC3=CC=CC=C3C[NH2+]2."
+            }
+        ],
+        "image": [
+            "image/img2smiles/14.png"
+        ],
+        "SMILES": "CCC1=CC=C(C=C1)NC(=O)[C@@H](CC(C)C)NC(=O)[C@@H]2CC3=CC=CC=C3C[NH2+]2"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is COC1=CC(=C(C=C1)C(=O)OCC(=O)N2CC3=CC=CC=C3C[C@H]2C(=O)OC)O."
+            }
+        ],
+        "image": [
+            "image/img2smiles/15.png"
+        ],
+        "SMILES": "COC1=CC(=C(C=C1)C(=O)OCC(=O)N2CC3=CC=CC=C3C[C@H]2C(=O)OC)O"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCC1=C(C=C(S1)C(=O)OCC(=O)C2=C(N(C(=O)NC2=O)C)N)C."
+            }
+        ],
+        "image": [
+            "image/img2smiles/16.png"
+        ],
+        "SMILES": "CCC1=C(C=C(S1)C(=O)OCC(=O)C2=C(N(C(=O)NC2=O)C)N)C"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCCCCCCCCCCCCC(=O)OP(=O)(O)OP(=O)(O)OP(=O)(O)OC[C@@H]1[C@H](C[C@@H](O1)N2C=C(C(=O)NC2=O)C)N=[N+]=[N-]."
+            }
+        ],
+        "image": [
+            "image/img2smiles/17.png"
+        ],
+        "SMILES": "CCCCCCCCCCCCCC(=O)OP(=O)(O)OP(=O)(O)OP(=O)(O)OC[C@@H]1[C@H](C[C@@H](O1)N2C=C(C(=O)NC2=O)C)N=[N+]=[N-]"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC[NH+](CC)CCN1C(C(=C(C2=C(C=C(C=C2)OC)C)O)C(=O)C1=O)C3=CN=CC=C3."
+            }
+        ],
+        "image": [
+            "image/img2smiles/18.png"
+        ],
+        "SMILES": "CC[NH+](CC)CCN1C(C(=C(C2=C(C=C(C=C2)OC)C)O)C(=O)C1=O)C3=CN=CC=C3"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC1CCCC[NH+]1CCCNC(=O)C2=CC=C(C=C2)S(=O)(=O)NC(C)COC."
+            }
+        ],
+        "image": [
+            "image/img2smiles/19.png"
+        ],
+        "SMILES": "CC1CCCC[NH+]1CCCNC(=O)C2=CC=C(C=C2)S(=O)(=O)NC(C)COC"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC(C(C)(C)C)NC(=S)NC1=C(C=CC=C1Br)OC(F)F."
+            }
+        ],
+        "image": [
+            "image/img2smiles/20.png"
+        ],
+        "SMILES": "CC(C(C)(C)C)NC(=S)NC1=C(C=CC=C1Br)OC(F)F"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCN1C(=O)C2=CC=CC=C2C(=N1)C(=O)OCC(=O)C3=CC=C(S3)Cl."
+            }
+        ],
+        "image": [
+            "image/img2smiles/21.png"
+        ],
+        "SMILES": "CCN1C(=O)C2=CC=CC=C2C(=N1)C(=O)OCC(=O)C3=CC=C(S3)Cl"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1C2C=CC1C3C2C(=O)N(C3=O)C4=CC=CC=C4C(=O)OCC(=O)C5=CC=C(C=C5)F."
+            }
+        ],
+        "image": [
+            "image/img2smiles/22.png"
+        ],
+        "SMILES": "C1C2C=CC1C3C2C(=O)N(C3=O)C4=CC=CC=C4C(=O)OCC(=O)C5=CC=C(C=C5)F"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCOC(=O)C1=CC=C(C=C1)N2[C@@H](C(=C(C3=CC=C(C=C3)OC)O)C(=O)C2=O)C4=CC=CC=C4Cl."
+            }
+        ],
+        "image": [
+            "image/img2smiles/23.png"
+        ],
+        "SMILES": "CCOC(=O)C1=CC=C(C=C1)N2[C@@H](C(=C(C3=CC=C(C=C3)OC)O)C(=O)C2=O)C4=CC=CC=C4Cl"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCOC1O[C@@H]2C[C@]3([C@@H]4CCC[C@@H]4[C@H]3C(=O)[C@@H]2O1)C(=O)OC."
+            }
+        ],
+        "image": [
+            "image/img2smiles/24.png"
+        ],
+        "SMILES": "CCOC1O[C@@H]2C[C@]3([C@@H]4CCC[C@@H]4[C@H]3C(=O)[C@@H]2O1)C(=O)OC"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC1=C(C(=CC=C1)N2C(=O)[C@H]3[C@@H]4C[C@H]([C@H]3C2=O)C=C4)C."
+            }
+        ],
+        "image": [
+            "image/img2smiles/25.png"
+        ],
+        "SMILES": "CC1=C(C(=CC=C1)N2C(=O)[C@H]3[C@@H]4C[C@H]([C@H]3C2=O)C=C4)C"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCCN1C(=NN=C1SC(C)C(=O)C2=C(C=C(C=C2)OC)OC)C3=CC=NC=C3."
+            }
+        ],
+        "image": [
+            "image/img2smiles/26.png"
+        ],
+        "SMILES": "CCCN1C(=NN=C1SC(C)C(=O)C2=C(C=C(C=C2)OC)OC)C3=CC=NC=C3"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CN(C)C(=O)CN(C)C(=O)C1=CC(=C(C=C1)SC2=CC=C(C=C2)F)[N+](=O)[O-]."
+            }
+        ],
+        "image": [
+            "image/img2smiles/27.png"
+        ],
+        "SMILES": "CN(C)C(=O)CN(C)C(=O)C1=CC(=C(C=C1)SC2=CC=C(C=C2)F)[N+](=O)[O-]"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCOC1=CC=C(C=C1)CN(C)C(=O)CN2C(=O)[C@](NC2=O)(C)C3=CC=C(C=C3)C."
+            }
+        ],
+        "image": [
+            "image/img2smiles/28.png"
+        ],
+        "SMILES": "CCOC1=CC=C(C=C1)CN(C)C(=O)CN2C(=O)[C@](NC2=O)(C)C3=CC=C(C=C3)C"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC(C(=O)NC1=CC2=CC=CC=C2C=C1)OC(=O)C3=C(C=C(C=C3)F)Cl."
+            }
+        ],
+        "image": [
+            "image/img2smiles/29.png"
+        ],
+        "SMILES": "CC(C(=O)NC1=CC2=CC=CC=C2C=C1)OC(=O)C3=C(C=C(C=C3)F)Cl"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1=CC=C2C(=C1)C=C(N2)C(=O)NCCNC3=C(C=C(C=C3)C(F)(F)F)[N+](=O)[O-]."
+            }
+        ],
+        "image": [
+            "image/img2smiles/30.png"
+        ],
+        "SMILES": "C1=CC=C2C(=C1)C=C(N2)C(=O)NCCNC3=C(C=C(C=C3)C(F)(F)F)[N+](=O)[O-]"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1=CC=C(C=C1)SCC2=CC=C(C=C2)C(=O)NN=CC3=CC=CC=C3C(F)(F)F."
+            }
+        ],
+        "image": [
+            "image/img2smiles/31.png"
+        ],
+        "SMILES": "C1=CC=C(C=C1)SCC2=CC=C(C=C2)C(=O)NN=CC3=CC=CC=C3C(F)(F)F"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is COC1=CC=CC=C1OCC(=O)OCC(=O)NCC(F)(F)F."
+            }
+        ],
+        "image": [
+            "image/img2smiles/32.png"
+        ],
+        "SMILES": "COC1=CC=CC=C1OCC(=O)OCC(=O)NCC(F)(F)F"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1=CC=C(C=C1)CC(C(=O)NOC(=O)C2=CC=CC=C2)NC(=O)CN."
+            }
+        ],
+        "image": [
+            "image/img2smiles/33.png"
+        ],
+        "SMILES": "C1=CC=C(C=C1)CC(C(=O)NOC(=O)C2=CC=CC=C2)NC(=O)CN"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CSC1=C(C=CC=N1)C(=O)OCC(=O)NCCCC2=CC=CC=C2."
+            }
+        ],
+        "image": [
+            "image/img2smiles/34.png"
+        ],
+        "SMILES": "CSC1=C(C=CC=N1)C(=O)OCC(=O)NCCCC2=CC=CC=C2"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC1=C(C=CC=C1Cl)NCC(=O)NN=C(C=CC2=CC=CC=C2)C3=CC=CC=C3."
+            }
+        ],
+        "image": [
+            "image/img2smiles/35.png"
+        ],
+        "SMILES": "CC1=C(C=CC=C1Cl)NCC(=O)NN=C(C=CC2=CC=CC=C2)C3=CC=CC=C3"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC12C(CC3C4C(CC=C3C1C5=CC=C(O5)CO)C(=O)N(C4=O)CC6=CC=CC=C6)C(=O)N(C2=O)C7=CC=CC=C7."
+            }
+        ],
+        "image": [
+            "image/img2smiles/36.png"
+        ],
+        "SMILES": "CC12C(CC3C4C(CC=C3C1C5=CC=C(O5)CO)C(=O)N(C4=O)CC6=CC=CC=C6)C(=O)N(C2=O)C7=CC=CC=C7"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC1=C(C=CN=C1C=NNC(=S)NCCC2=CC=CC=C2)C3=CC=CC=C3."
+            }
+        ],
+        "image": [
+            "image/img2smiles/37.png"
+        ],
+        "SMILES": "CC1=C(C=CN=C1C=NNC(=S)NCCC2=CC=CC=C2)C3=CC=CC=C3"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCN1C(=O)C2=CC=CC=C2C(=N1)C(=O)NN=C(C)C3=CC=CC=C3F."
+            }
+        ],
+        "image": [
+            "image/img2smiles/38.png"
+        ],
+        "SMILES": "CCN1C(=O)C2=CC=CC=C2C(=N1)C(=O)NN=C(C)C3=CC=CC=C3F"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCCC[C@@H](C(=O)C(=O)NCC=C)NC(=O)[C@@H]1[C@@H]2[C@@H](C2(C)C)CN1C(=O)[C@H](C(C)(C)C)NC(=O)[C@H](C3CCCCC3)NC(=O)C4=NC=CN=C4."
+            }
+        ],
+        "image": [
+            "image/img2smiles/39.png"
+        ],
+        "SMILES": "CCCC[C@@H](C(=O)C(=O)NCC=C)NC(=O)[C@@H]1[C@@H]2[C@@H](C2(C)C)CN1C(=O)[C@H](C(C)(C)C)NC(=O)[C@H](C3CCCCC3)NC(=O)C4=NC=CN=C4"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1=CC=C(C(=C1)NC(=O)COC(=O)C2=CC=C(C=C2)OC(F)(F)F)SCC#N."
+            }
+        ],
+        "image": [
+            "image/img2smiles/40.png"
+        ],
+        "SMILES": "C1=CC=C(C(=C1)NC(=O)COC(=O)C2=CC=C(C=C2)OC(F)(F)F)SCC#N"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCOC1=C(C=CC(=C1)CNN2C(=NN=C2SCC(=O)NC(C)(C)C)C)OCC(=O)NC(C)(C)C."
+            }
+        ],
+        "image": [
+            "image/img2smiles/41.png"
+        ],
+        "SMILES": "CCOC1=C(C=CC(=C1)CNN2C(=NN=C2SCC(=O)NC(C)(C)C)C)OCC(=O)NC(C)(C)C"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CN1CCC(CC1)C2=CNC3=CN=C(C=C23)N."
+            }
+        ],
+        "image": [
+            "image/img2smiles/42.png"
+        ],
+        "SMILES": "CN1CCC(CC1)C2=CNC3=CN=C(C=C23)N"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC1=C(SC=C1)CN(CC2=CC=CC=C2)C(=O)CN(CCN3CCCC3)C(=O)NC4=C(C=C(C=C4)Cl)Cl."
+            }
+        ],
+        "image": [
+            "image/img2smiles/43.png"
+        ],
+        "SMILES": "CC1=C(SC=C1)CN(CC2=CC=CC=C2)C(=O)CN(CCN3CCCC3)C(=O)NC4=C(C=C(C=C4)Cl)Cl"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC1=C(C=C(C=C1)/C=C/2\\C(=O)N(C(=NC3=CC=C(C=C3)C(=O)OC)S2)C)OC."
+            }
+        ],
+        "image": [
+            "image/img2smiles/44.png"
+        ],
+        "SMILES": "CC1=C(C=C(C=C1)/C=C/2\\C(=O)N(C(=NC3=CC=C(C=C3)C(=O)OC)S2)C)OC"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1C\\2=C/C(=C\\C=C3C=CCC=C3)/C(=C/C2=C\\C=C4C=CCC=C4)CCC\\5=C/C(=C\\C=C6C=CCC=C6)/C(=C/C5=C\\C=C7C=CCC=C7)C1."
+            }
+        ],
+        "image": [
+            "image/img2smiles/45.png"
+        ],
+        "SMILES": "C1C\\2=C/C(=C\\C=C3C=CCC=C3)/C(=C/C2=C\\C=C4C=CCC=C4)CCC\\5=C/C(=C\\C=C6C=CCC=C6)/C(=C/C5=C\\C=C7C=CCC=C7)C1"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1=CC=C2C=C(C=CC2=C1)C(=O)NC3=CC=CC(=C3)NC(=O)C4=CC(=CC=C4)Cl."
+            }
+        ],
+        "image": [
+            "image/img2smiles/46.png"
+        ],
+        "SMILES": "C1=CC=C2C=C(C=CC2=C1)C(=O)NC3=CC=CC(=C3)NC(=O)C4=CC(=CC=C4)Cl"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1=CC=C(C=C1)C2=CC=C(O2)C=C(C#N)C3=NC(=C(C(=C3C#N)N)C#N)N."
+            }
+        ],
+        "image": [
+            "image/img2smiles/47.png"
+        ],
+        "SMILES": "C1=CC=C(C=C1)C2=CC=C(O2)C=C(C#N)C3=NC(=C(C(=C3C#N)N)C#N)N"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C[C@@H]1C[C@H]1C(=O)NC2=NC3=C(C=CC=C3S2)C."
+            }
+        ],
+        "image": [
+            "image/img2smiles/48.png"
+        ],
+        "SMILES": "C[C@@H]1C[C@H]1C(=O)NC2=NC3=C(C=CC=C3S2)C"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC(=O)N1C(C2C(=O)CC(C=C2NC3=CC=CC=C31)(C)C)C4=CC(=C(C=C4)OC)OC."
+            }
+        ],
+        "image": [
+            "image/img2smiles/49.png"
+        ],
+        "SMILES": "CC(=O)N1C(C2C(=O)CC(C=C2NC3=CC=CC=C31)(C)C)C4=CC(=C(C=C4)OC)OC"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC(=O)C1=CC=C(C=C1)NCN2C(=O)CSC2=O."
+            }
+        ],
+        "image": [
+            "image/img2smiles/50.png"
+        ],
+        "SMILES": "CC(=O)C1=CC=C(C=C1)NCN2C(=O)CSC2=O"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC1=C(C(=O)OC(O1)(C)C)C(CC(=O)N(C(C)C)C(C)C)C2=CC=CC=C2."
+            }
+        ],
+        "image": [
+            "image/img2smiles/51.png"
+        ],
+        "SMILES": "CC1=C(C(=O)OC(O1)(C)C)C(CC(=O)N(C(C)C)C(C)C)C2=CC=CC=C2"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC1=CC=C(C=C1)NC(=O)CN(C)C(=O)C(C)NC(C)C2=CC=CC3=CC=CC=C32."
+            }
+        ],
+        "image": [
+            "image/img2smiles/52.png"
+        ],
+        "SMILES": "CC1=CC=C(C=C1)NC(=O)CN(C)C(=O)C(C)NC(C)C2=CC=CC3=CC=CC=C32"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCC1=CC=C(C=C1)C2=CC=C(O2)C=C3C(=O)N(C(=S)S3)CCC(=O)[O-]."
+            }
+        ],
+        "image": [
+            "image/img2smiles/53.png"
+        ],
+        "SMILES": "CCC1=CC=C(C=C1)C2=CC=C(O2)C=C3C(=O)N(C(=S)S3)CCC(=O)[O-]"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1C=CC2C1C(NC3=C2C=C(C=C3)C(=O)[O-])C4=CC=CC=N4."
+            }
+        ],
+        "image": [
+            "image/img2smiles/54.png"
+        ],
+        "SMILES": "C1C=CC2C1C(NC3=C2C=C(C=C3)C(=O)[O-])C4=CC=CC=N4"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1=CC=C2C(=C1)C(=CN2CC(=O)O)/C=C(\\C#N)/C(=O)NC3=CC=C(C=C3)C(F)(F)F."
+            }
+        ],
+        "image": [
+            "image/img2smiles/55.png"
+        ],
+        "SMILES": "C1=CC=C2C(=C1)C(=CN2CC(=O)O)/C=C(\\C#N)/C(=O)NC3=CC=C(C=C3)C(F)(F)F"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1CC(N(C(=O)C1)CCCCOCC(=O)O)C=CC(CC2=CC=CC=C2)O."
+            }
+        ],
+        "image": [
+            "image/img2smiles/56.png"
+        ],
+        "SMILES": "C1CC(N(C(=O)C1)CCCCOCC(=O)O)C=CC(CC2=CC=CC=C2)O"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCCN(CCC(=O)NCCCOC)C(=O)C1=NC=CN=C1."
+            }
+        ],
+        "image": [
+            "image/img2smiles/57.png"
+        ],
+        "SMILES": "CCCN(CCC(=O)NCCCOC)C(=O)C1=NC=CN=C1"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCCOC1=C(C=C(C=C1)NC(=O)CNC(=O)C2=CC=CC=C2Cl)OCCC."
+            }
+        ],
+        "image": [
+            "image/img2smiles/58.png"
+        ],
+        "SMILES": "CCCOC1=C(C=C(C=C1)NC(=O)CNC(=O)C2=CC=CC=C2Cl)OCCC"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is COC1=CC=C(C=C1)C(CNC(=O)CC2=CC=CS2)[NH+]3CCOCC3."
+            }
+        ],
+        "image": [
+            "image/img2smiles/59.png"
+        ],
+        "SMILES": "COC1=CC=C(C=C1)C(CNC(=O)CC2=CC=CS2)[NH+]3CCOCC3"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1CC(OC1)CNC2=C(N=C(O2)C=CC3=CC=CS3)C#N."
+            }
+        ],
+        "image": [
+            "image/img2smiles/60.png"
+        ],
+        "SMILES": "C1CC(OC1)CNC2=C(N=C(O2)C=CC3=CC=CS3)C#N"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C[C@H](C1=NC2=CC=CC=C2S1)N(C)CC3=NC4=CC=CC=C4O3."
+            }
+        ],
+        "image": [
+            "image/img2smiles/61.png"
+        ],
+        "SMILES": "C[C@H](C1=NC2=CC=CC=C2S1)N(C)CC3=NC4=CC=CC=C4O3"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1CCC2C(C1)C2(C(C3=CC=CC=C3)O)Br."
+            }
+        ],
+        "image": [
+            "image/img2smiles/62.png"
+        ],
+        "SMILES": "C1CCC2C(C1)C2(C(C3=CC=CC=C3)O)Br"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C[NH+](C)CCN1C(C2=C(C1=O)OC3=CC=CC=C3C2=O)C4=CC(=CC=C4)Cl."
+            }
+        ],
+        "image": [
+            "image/img2smiles/63.png"
+        ],
+        "SMILES": "C[NH+](C)CCN1C(C2=C(C1=O)OC3=CC=CC=C3C2=O)C4=CC(=CC=C4)Cl"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1CN(CCN1CC[C@@H](C(C(F)(F)F)(F)F)O)C(C2=CC=CC=C2)C3=CC=CC=C3."
+            }
+        ],
+        "image": [
+            "image/img2smiles/64.png"
+        ],
+        "SMILES": "C1CN(CCN1CC[C@@H](C(C(F)(F)F)(F)F)O)C(C2=CC=CC=C2)C3=CC=CC=C3"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1=CC=C(C(=C1)C(=O)C2=CC=C(C=C2)Cl)C(=O)OCC3=NC4=CC=CC=C4O3."
+            }
+        ],
+        "image": [
+            "image/img2smiles/65.png"
+        ],
+        "SMILES": "C1=CC=C(C(=C1)C(=O)C2=CC=C(C=C2)Cl)C(=O)OCC3=NC4=CC=CC=C4O3"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCOC(=O)C1=CC2=C(N1CC(=O)NC3CCC(CC3)C)C=CS2."
+            }
+        ],
+        "image": [
+            "image/img2smiles/66.png"
+        ],
+        "SMILES": "CCOC(=O)C1=CC2=C(N1CC(=O)NC3CCC(CC3)C)C=CS2"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC[C@@H](C1=CC=CC=C1)C(=O)O[C@@H](C)C(=O)NC2=CC(=CC=C2)[N+](=O)[O-]."
+            }
+        ],
+        "image": [
+            "image/img2smiles/67.png"
+        ],
+        "SMILES": "CC[C@@H](C1=CC=CC=C1)C(=O)O[C@@H](C)C(=O)NC2=CC(=CC=C2)[N+](=O)[O-]"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCCC(C)NC(=O)COC(=O)C1=CC(=CC=C1)NC(=O)C2=CC=CS2."
+            }
+        ],
+        "image": [
+            "image/img2smiles/68.png"
+        ],
+        "SMILES": "CCCC(C)NC(=O)COC(=O)C1=CC(=CC=C1)NC(=O)C2=CC=CS2"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC1(CC(=O)C=C(O1)C(=O)NC(CO)C(=O)NN2CCOCC2)C."
+            }
+        ],
+        "image": [
+            "image/img2smiles/69.png"
+        ],
+        "SMILES": "CC1(CC(=O)C=C(O1)C(=O)NC(CO)C(=O)NN2CCOCC2)C"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCNC1=NC(=NC(=N1)SC(C)C(=O)OC)N(C)C."
+            }
+        ],
+        "image": [
+            "image/img2smiles/70.png"
+        ],
+        "SMILES": "CCNC1=NC(=NC(=N1)SC(C)C(=O)OC)N(C)C"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CN1C2CCC1C(CC2)OC(=O)C(C3=CC=CC=C3)(C4=CC=CC=C4)O."
+            }
+        ],
+        "image": [
+            "image/img2smiles/71.png"
+        ],
+        "SMILES": "CN1C2CCC1C(CC2)OC(=O)C(C3=CC=CC=C3)(C4=CC=CC=C4)O"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC1(O[C@H]2[C@H](O[C@H]3[C@@H]([C@H]2O1)OC(O3)(C)C)CSCC=C)C."
+            }
+        ],
+        "image": [
+            "image/img2smiles/72.png"
+        ],
+        "SMILES": "CC1(O[C@H]2[C@H](O[C@H]3[C@@H]([C@H]2O1)OC(O3)(C)C)CSCC=C)C"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCOC(=O)C1=C(N=C2N(C1C3=CC=C(C=C3)C(C)C)C(=O)C(=CC4=C(N(C(=C4)C)C5=CC=C(C=C5)F)C)S2)C."
+            }
+        ],
+        "image": [
+            "image/img2smiles/73.png"
+        ],
+        "SMILES": "CCOC(=O)C1=C(N=C2N(C1C3=CC=C(C=C3)C(C)C)C(=O)C(=CC4=C(N(C(=C4)C)C5=CC=C(C=C5)F)C)S2)C"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCOC1=C(C=C(C=C1)[C@H](CC(=O)O)NC(=O)C2=CC=CC=C2)OC."
+            }
+        ],
+        "image": [
+            "image/img2smiles/74.png"
+        ],
+        "SMILES": "CCOC1=C(C=C(C=C1)[C@H](CC(=O)O)NC(=O)C2=CC=CC=C2)OC"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC1(CC2=C(C(C(=C(N2NC3=CC=CC=C3)N)C#N)C4=CC(=C(C=C4)OCC5=CC=CC=C5)OC)C(=O)C1)C."
+            }
+        ],
+        "image": [
+            "image/img2smiles/75.png"
+        ],
+        "SMILES": "CC1(CC2=C(C(C(=C(N2NC3=CC=CC=C3)N)C#N)C4=CC(=C(C=C4)OCC5=CC=CC=C5)OC)C(=O)C1)C"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C[C@@H](C(=O)NC1=CC=C(C=C1)C(=O)N)[NH+](C)CC(=O)NC2=C(C=CC(=C2)Cl)OC."
+            }
+        ],
+        "image": [
+            "image/img2smiles/76.png"
+        ],
+        "SMILES": "C[C@@H](C(=O)NC1=CC=C(C=C1)C(=O)N)[NH+](C)CC(=O)NC2=C(C=CC(=C2)Cl)OC"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is COC1=C(C(=CC=C1)OC)C=NNC(=S)N."
+            }
+        ],
+        "image": [
+            "image/img2smiles/77.png"
+        ],
+        "SMILES": "COC1=C(C(=CC=C1)OC)C=NNC(=S)N"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCOCC1=C(C=CC(=C1)C(=O)NNC(=O)[C@H](C)OC2=CC=C(C=C2)F)OC."
+            }
+        ],
+        "image": [
+            "image/img2smiles/78.png"
+        ],
+        "SMILES": "CCOCC1=C(C=CC(=C1)C(=O)NNC(=O)[C@H](C)OC2=CC=C(C=C2)F)OC"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1=CC(=CC=C1COC(=O)CCNS(=O)(=O)C2=CC(=C(C=C2)F)F)Cl."
+            }
+        ],
+        "image": [
+            "image/img2smiles/79.png"
+        ],
+        "SMILES": "C1=CC(=CC=C1COC(=O)CCNS(=O)(=O)C2=CC(=C(C=C2)F)F)Cl"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1CCC(CC1)CN2CCCC3=C2C=CC=C3OCCCN4CCCCC4."
+            }
+        ],
+        "image": [
+            "image/img2smiles/80.png"
+        ],
+        "SMILES": "C1CCC(CC1)CN2CCCC3=C2C=CC=C3OCCCN4CCCCC4"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C(CC[N+](CCCCN)(CCCN)CCCN)CN.OCl(=O)(=O)=O.OCl(=O)(=O)=O.OCl(=O)(=O)=O.OCl(=O)(=O)=O.[Cl-]."
+            }
+        ],
+        "image": [
+            "image/img2smiles/81.png"
+        ],
+        "SMILES": "C(CC[N+](CCCCN)(CCCN)CCCN)CN.OCl(=O)(=O)=O.OCl(=O)(=O)=O.OCl(=O)(=O)=O.OCl(=O)(=O)=O.[Cl-]"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC1=C(C(C(=C(N1)SCC(=O)NC2=NC=CS2)C#N)C3=CC=CO3)C(=O)NC4=CC=CC=C4."
+            }
+        ],
+        "image": [
+            "image/img2smiles/82.png"
+        ],
+        "SMILES": "CC1=C(C(C(=C(N1)SCC(=O)NC2=NC=CS2)C#N)C3=CC=CO3)C(=O)NC4=CC=CC=C4"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C[C@H](CO[Si](C)(C)C(C)(C)C)[C@H](CCOCC1=CC=C(C=C1)OC)O[Si](C)(C)C(C)(C)C."
+            }
+        ],
+        "image": [
+            "image/img2smiles/83.png"
+        ],
+        "SMILES": "C[C@H](CO[Si](C)(C)C(C)(C)C)[C@H](CCOCC1=CC=C(C=C1)OC)O[Si](C)(C)C(C)(C)C"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC1=CC(=CC=C1)N2C(=O)CC(C2=O)[NH+]3CC[NH+](CC3)CC=CC4=CC=CC=C4."
+            }
+        ],
+        "image": [
+            "image/img2smiles/84.png"
+        ],
+        "SMILES": "CC1=CC(=CC=C1)N2C(=O)CC(C2=O)[NH+]3CC[NH+](CC3)CC=CC4=CC=CC=C4"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1CCC(C1)S(=O)(=O)C2=CC=CC(=C2)CCCCOCCCCCCNC[C@@H](C3=CC(=C(C=C3)O)CO)O.C1=CC(=CC=C1S(=O)(=O)O)Cl."
+            }
+        ],
+        "image": [
+            "image/img2smiles/85.png"
+        ],
+        "SMILES": "C1CCC(C1)S(=O)(=O)C2=CC=CC(=C2)CCCCOCCCCCCNC[C@@H](C3=CC(=C(C=C3)O)CO)O.C1=CC(=CC=C1S(=O)(=O)O)Cl"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCC1=C(C=C(S1)C(=O)OC(C)C(=O)NCC2=CC=C(C=C2)C)C."
+            }
+        ],
+        "image": [
+            "image/img2smiles/86.png"
+        ],
+        "SMILES": "CCC1=C(C=C(S1)C(=O)OC(C)C(=O)NCC2=CC=C(C=C2)C)C"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCN(CC)C1=CC=C(C=C1)C2N(CCS2)C(=O)C3=CC(=CC=C3)OC."
+            }
+        ],
+        "image": [
+            "image/img2smiles/87.png"
+        ],
+        "SMILES": "CCN(CC)C1=CC=C(C=C1)C2N(CCS2)C(=O)C3=CC(=CC=C3)OC"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1OC2=C(O1)C(=CC(=C2)/C=C/C(=O)OCC3=NOC(=C3)C4=CC=CS4)Cl."
+            }
+        ],
+        "image": [
+            "image/img2smiles/88.png"
+        ],
+        "SMILES": "C1OC2=C(O1)C(=CC(=C2)/C=C/C(=O)OCC3=NOC(=C3)C4=CC=CS4)Cl"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CN1CCC2(C1CC(=O)CC2)C3=CC(=C(C=C3)OC)OC."
+            }
+        ],
+        "image": [
+            "image/img2smiles/89.png"
+        ],
+        "SMILES": "CN1CCC2(C1CC(=O)CC2)C3=CC(=C(C=C3)OC)OC"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCOC1=CC=C(C=C1)N2CC(CC2=O)NC(=O)CC3=CC=CC=C3."
+            }
+        ],
+        "image": [
+            "image/img2smiles/90.png"
+        ],
+        "SMILES": "CCOC1=CC=C(C=C1)N2CC(CC2=O)NC(=O)CC3=CC=CC=C3"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C=CCN(CC1CC(OC(O1)C2=CC=CC(=C2)C3=CC=CC(=C3)CNC(=O)CCC(=O)O)C4=CC=C(C=C4)CO)C5CCCC5."
+            }
+        ],
+        "image": [
+            "image/img2smiles/91.png"
+        ],
+        "SMILES": "C=CCN(CC1CC(OC(O1)C2=CC=CC(=C2)C3=CC=CC(=C3)CNC(=O)CCC(=O)O)C4=CC=C(C=C4)CO)C5CCCC5"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCOC1=CC=CC=C1N2CC[NH+](CC2)[C@H](C)C(=O)NC3=CC(=CC=C3)OC."
+            }
+        ],
+        "image": [
+            "image/img2smiles/92.png"
+        ],
+        "SMILES": "CCOC1=CC=CC=C1N2CC[NH+](CC2)[C@H](C)C(=O)NC3=CC(=CC=C3)OC"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C=CC(=O)OC1=CC=CC(=C1)N2C(=O)[C@H]3[C@@H]4C[C@H]([C@H]3C2=O)C=C4."
+            }
+        ],
+        "image": [
+            "image/img2smiles/93.png"
+        ],
+        "SMILES": "C=CC(=O)OC1=CC=CC(=C1)N2C(=O)[C@H]3[C@@H]4C[C@H]([C@H]3C2=O)C=C4"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1C2C1OC(CC2=O)C3=CC=CC=C3."
+            }
+        ],
+        "image": [
+            "image/img2smiles/94.png"
+        ],
+        "SMILES": "C1C2C1OC(CC2=O)C3=CC=CC=C3"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCOC1=C(C=CC(=C1)/C=N/NC(=O)C(=O)NC2=CC=CC3=CC=CC=C32)OCC=C."
+            }
+        ],
+        "image": [
+            "image/img2smiles/95.png"
+        ],
+        "SMILES": "CCOC1=C(C=CC(=C1)/C=N/NC(=O)C(=O)NC2=CC=CC3=CC=CC=C32)OCC=C"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1COCCN1CCCNC(=S)N/N=C/C2=CC=CC=C2C(F)(F)F."
+            }
+        ],
+        "image": [
+            "image/img2smiles/96.png"
+        ],
+        "SMILES": "C1COCCN1CCCNC(=S)N/N=C/C2=CC=CC=C2C(F)(F)F"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CCOC1=CC=C(C=C1)C2C3=C(CC(CC3=O)(C)C)NC4=CC=CC=C4N2."
+            }
+        ],
+        "image": [
+            "image/img2smiles/97.png"
+        ],
+        "SMILES": "CCOC1=CC=C(C=C1)C2C3=C(CC(CC3=O)(C)C)NC4=CC=CC=C4N2"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is C1=CC(=CC=C1C=NNC(=O)COC2=CC=C(C=C2)Cl)F."
+            }
+        ],
+        "image": [
+            "image/img2smiles/98.png"
+        ],
+        "SMILES": "C1=CC(=CC=C1C=NNC(=O)COC2=CC=C(C=C2)Cl)F"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is CC(C1=CC=CC=C1)NC(C)C2=CC=C(C=C2)C(F)(F)F.C1=CC=C(C=C1)S(=O)(=O)O."
+            }
+        ],
+        "image": [
+            "image/img2smiles/99.png"
+        ],
+        "SMILES": "CC(C1=CC=CC=C1)NC(C)C2=CC=C(C=C2)C(F)(F)F.C1=CC=C(C=C1)S(=O)(=O)O"
+    },
+    {
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What is the SMILES of the molecule in this image? <|image|>"
+            },
+            {
+                "from": "gpt",
+                "value": "The SMILES of the molecule in the image is COC(=O)[C@@H](CO)NC(=O)/C=C/C1=CC=C(C=C1)S(=O)(=O)N2CCOCC2."
+            }
+        ],
+        "image": [
+            "image/img2smiles/100.png"
+        ],
+        "SMILES": "COC(=O)[C@@H](CO)NC(=O)/C=C/C1=CC=C(C=C1)S(=O)(=O)N2CCOCC2"
+    }
+]
