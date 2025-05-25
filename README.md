@@ -44,3 +44,6 @@ data/
 │   └── property2img.json
 
 ```
+
+## Mol-VQGAN training
+See [vqgan/README.md](vqgan/README.md)
