@@ -45,5 +45,10 @@ data/
 
 ```
 
-## Mol-VQGAN training
+## Mol-VQGAN Training
 See [vqgan/README.md](vqgan/README.md)
+
+## Recommended Training Framework For LLM SFT
+
+We recommend you to use [Lumina-mGPT](https://github.com/Alpha-VLLM/Lumina-mGPT) for large language model Supervised Fine-Tuning.  
+Our dataset is compatible with its input pipeline and training flow.
