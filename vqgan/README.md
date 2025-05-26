@@ -1,6 +1,6 @@
 # Mol-VQGAN
 
-## getting started
+## Getting Started
 ```bash
 cd vqgan
 ```
@@ -29,16 +29,16 @@ smiles/
 └── val.txt
 ```
 
-## training
+## Training
 
-environment named `molvqgan` can be created and activated by:
+Environment named `molvqgan` can be created and activated by:
 
 ```
 conda env create -f environment.yaml
 conda activate molvqgan
 ```
 
-and then run the following code for training:
+And then run the following code for training:
 
 1. Create 2 text files that point to the image files
 ```bash
